@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+My name's Udit, I'm a developer and designer from Toronto. I'm currently working at Shopify as a UX developer!
+
 <!--
 **uditdesai/uditdesai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
