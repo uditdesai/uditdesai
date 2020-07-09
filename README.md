@@ -1,6 +1,13 @@
-### Hi there 👋
+### Hey 👋
 
-My name's Udit, I'm a developer and designer from Toronto. I'm currently working at Shopify as a UX developer!
+My name's Udit (he/him), I'm a developer and designer from Toronto. I'm currently working at Shopify as a UX developer 💻 and studying computer engineering at The University of Toronto 🎒
+
+On the side, I like collaborating on building creative experiences for the web. Somethings I've built before are [hxouse.com](https://www.hxouse.com/), [andrasii.com](https://www.andrasii.com/), and I'm currently in the process of building e-commerce stores for local brands in Toronto ✨ I'm always open to working on a new project — feel free to reach out!
+
+### Get in Touch ☕️
+
+Twitter: https://twitter.com/uydesai
+Portfolio: https://www.uditdesai.com/
 
 <!--
 **uditdesai/uditdesai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
