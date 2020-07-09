@@ -6,8 +6,11 @@ On the side, I like collaborating on building creative experiences for the web. 
 
 ### Get in Touch ☕️
 
-Twitter: https://twitter.com/uydesai
-Portfolio: https://www.uditdesai.com/
+Dm or @ me on [Twitter](https://twitter.com/uydesai) or you can find my website and email on the left!
+
+I like talking about running, music, TV, and fashion 🏃🏾‍♂️ 🎶
+
+
 
 <!--
 **uditdesai/uditdesai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
