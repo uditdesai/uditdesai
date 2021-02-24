@@ -1,14 +1,10 @@
 ### Hey 👋
 
-My name's Udit (he/him), I'm a developer and designer from Toronto. I'm currently working at Shopify as a UX developer 💻 and studying computer engineering at The University of Toronto 🎒
+Developer and designer specializing in user experience and the web. I'm currently studying computer engineering at the University of Toronto and working on select technology projects for clients.
 
-On the side, I like collaborating on building creative experiences for the web. Somethings I've built before are [hxouse.com](https://www.hxouse.com/), [andrasii.com](https://www.andrasii.com/), and I'm currently in the process of building e-commerce stores for local brands in Toronto ✨ I'm always open to working on a new project — feel free to reach out!
+In the past, I've worked at small to large non-profits and companies. Most recently, I interned at Shopify and help built the subscriptions experience and functionality for online stores.
 
-### Get in Touch ☕️
-
-Dm or @ me on [Twitter](https://twitter.com/uydesai) or you can find my website and email on the left!
-
-I like talking about running, music, TV, and fashion 🏃🏾‍♂️ 🎶
+I'm interested in fashion, health and fitness, design, and reading.
 
 
 
