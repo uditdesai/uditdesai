@@ -1,5 +1,3 @@
-### Hey 👋
-
 Developer and designer specializing in user experience and the web. I'm currently studying computer engineering at the University of Toronto and working on select technology projects for clients.
 
 In the past, I've worked at small to large non-profits and companies. Most recently, I interned at Shopify and help built the subscriptions experience and functionality for online stores.
