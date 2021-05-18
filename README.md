@@ -1,8 +1,8 @@
-Developer and designer specializing in user experience and the web. I'm currently studying computer engineering at the University of Toronto and working on select technology projects for clients.
+Design-oriented developer specializing in user experience and web development. I'm currently studying computer engineering at the University of Toronto and completing an internship at Sanctuary Computer, a development studio in NYC. On the side, I also work on select freelance technology projects with friends :)
 
-In the past, I've worked at small to large non-profits and companies. Most recently, I interned at Shopify and help built the subscriptions experience and functionality for online stores.
+In the past, I've worked at small to large non-profits and companies. Last year, I interned at Shopify and help built the subscriptions experience and functionality for online stores.
 
-I'm interested in fashion, health and fitness, design, and reading.
+I'm interested in fashion, health and fitness, design, reading, and recently making juice.
 
 
 
