@@ -1,1 +1,1 @@
-I’m a software engineer specialized in building user interfaces and interested in designer-developer collaboration. I’m currently in my final year of computer engineering at the University of Toronto and I'll graduate in April 2022.
+I’m a software engineer specialized in building user interfaces and interested in designer-developer collaboration. I graduated from the University of Toronto in 2022 with a degree in computer engineering.
